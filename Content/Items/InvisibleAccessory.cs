@@ -14,6 +14,5 @@ namespace NMAAA.Content.Items
             Item.rare = ItemRarityID.Red;
             Item.value = Item.sellPrice(copper: 0);
         }
-
     }
 }

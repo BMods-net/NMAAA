@@ -4,16 +4,16 @@ using Terraria.ModLoader;
 
 namespace NMAAA.Content.Items.Armor
 {
-    [AutoloadEquip(EquipType.Body)]
+    [AutoloadEquip(EquipType.Legs)]
 
-    public class InvisibleBody : ModItem
+    public class InvisibleLegs : ModItem
     {
         public override void SetDefaults()
         {
             Item.width = 18;
             Item.height = 18;
-            Item.value = Item.sellPrice(copper: 0);
-            Item.rare = ItemRarityID.Red;
+            Item.value = Item.sellPrice(silver: 50);
+            Item.rare = ItemRarityID.Blue;
             Item.vanity = true;
         }
     }

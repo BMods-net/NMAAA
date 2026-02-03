@@ -7,7 +7,6 @@ namespace NMAAA.Content.Items.Armor
     [AutoloadEquip(EquipType.Head)]
     public class InvisibleHelmet : ModItem
     {
-
         public override void SetDefaults()
         {
             Item.width = 18;
@@ -16,7 +15,6 @@ namespace NMAAA.Content.Items.Armor
             Item.rare = ItemRarityID.Red;
             Item.vanity = true;
         }
-
     }
 }
 
