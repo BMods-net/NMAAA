@@ -16,5 +16,12 @@ namespace NMAAA.Content.Items.Armor
             Item.rare = ItemRarityID.Red;
             Item.vanity = true;
         }
+        public override void AddRecipes()
+        {
+            CreateRecipe()
+                .AddIngredient(ItemID.DirtBlock, 1)
+                .AddTile(TileID.WorkBenches)
+                .Register();
+        }
     }
 }
