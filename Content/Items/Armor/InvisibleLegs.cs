@@ -12,8 +12,8 @@ namespace NMAAA.Content.Items.Armor
         {
             Item.width = 18;
             Item.height = 18;
-            Item.value = Item.sellPrice(silver: 50);
-            Item.rare = ItemRarityID.Blue;
+            Item.value = Item.sellPrice(copper: 0);
+            Item.rare = ItemRarityID.Red;
             Item.vanity = true;
         }
     }
