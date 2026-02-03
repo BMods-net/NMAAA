@@ -1,13 +1,13 @@
 ﻿using Terraria;
-using Terraria.ModLoader;
 using Terraria.ID;
+using Terraria.ModLoader;
 
 namespace NMAAA.Content.Items.Armor
 {
-    [AutoloadEquip(EquipType.Head)]
-    public class InvisibleHelmet : ModItem
-    {
+    [AutoloadEquip(EquipType.Body)]
 
+    public class InvisibleBody : ModItem
+    {
         public override void SetDefaults()
         {
             Item.width = 18;
@@ -19,4 +19,3 @@ namespace NMAAA.Content.Items.Armor
 
     }
 }
-
