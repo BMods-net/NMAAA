@@ -16,6 +16,5 @@ namespace NMAAA.Content.Items.Armor
             Item.rare = ItemRarityID.Red;
             Item.vanity = true;
         }
-        public override bool IsVanitySet(int head, int body, int legs) => true;
     }
 }
