@@ -15,6 +15,10 @@ namespace NMAAA.Content.Items.Armor
             Item.rare = ItemRarityID.Red;
             Item.vanity = true;
         }
+        public override void SetStaticDefaults()
+        {
+            ArmorIDs.Head.Sets.DrawFullHair[Item.headSlot] = true;
+        }
     }
 }
 

@@ -1,2 +1,21 @@
-# This file will automatically update with entries for new content after a build and reload.
+Items: {
+	InvisibleBody: {
+		DisplayName: Invisible Body
+		Tooltip: ""
+	}
 
+	InvisibleHelmet: {
+		DisplayName: Invisible Helmet
+		Tooltip: ""
+	}
+
+	InvisibleLegs: {
+		DisplayName: Invisible Legs
+		Tooltip: ""
+	}
+
+	InvisibleAccessory: {
+		DisplayName: Invisible Accessory
+		Tooltip: ""
+	}
+}
