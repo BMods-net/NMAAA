@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace InvisibleAccessory.Content.Items
+namespace NMAAA.Content.Items
 {
     public class InvisibleAccessory : ModItem
     {
