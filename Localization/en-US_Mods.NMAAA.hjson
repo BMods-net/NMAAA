@@ -1,21 +1,16 @@
 Items: {
 	InvisibleBody: {
-		DisplayName: Invisible Body
-		Tooltip: ""
+		DisplayName: Invisible cuirass
+		Tooltip: "Will hide your cuirass when worn"
 	}
 
 	InvisibleHelmet: {
-		DisplayName: Invisible Helmet
-		Tooltip: ""
+		DisplayName: Invisible helmet
+		Tooltip: "Will hide your helmet when worn"
 	}
 
 	InvisibleLegs: {
-		DisplayName: Invisible Legs
-		Tooltip: ""
-	}
-
-	InvisibleAccessory: {
-		DisplayName: Invisible Accessory
-		Tooltip: ""
+		DisplayName: Invisible greaves
+		Tooltip: "Will hide your greaves when worn"
 	}
 }

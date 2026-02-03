@@ -1,0 +1,16 @@
+Items: {
+	InvisibleBody: {
+		DisplayName: Невидимый нагрудник
+		Tooltip: "Скроет надетый нагрудник"
+	}
+
+	InvisibleHelmet: {
+		DisplayName: Невидимый шлем
+		Tooltip: "Скроет надетый шлем"
+	}
+
+	InvisibleLegs: {
+		DisplayName: Невидимые поножи
+		Tooltip: "Скроет надетые поножи"
+	}
+}
