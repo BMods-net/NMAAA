@@ -1,3 +1,2 @@
 This mod can make your armor invisible. 
-How to use: wear helmet in slot for decorations, if you want to make helmet in non-decorative slot.
-Any item crafts from one dirt block on workbench.
+How to use: wear helmet in slot for decorations, if you want to make helmet in non-decorative slot. The same is for all other items in this mod. Any item crafts from one dirt block on workbench.
