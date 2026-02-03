@@ -1,4 +1,5 @@
-﻿using NMAAA.Content.Items.Armor;
+﻿using NMAAA.Content.Items;
+using NMAAA.Content.Items.Armor;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
